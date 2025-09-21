@@ -1,7 +1,7 @@
 import { Search, MapPin, Calendar } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
-import heroImage from "@/assets/hero-travel.jpg";
+import heroImage from "../assets/hero-bg.jpg";
 
 const HeroSection = () => {
   return (
